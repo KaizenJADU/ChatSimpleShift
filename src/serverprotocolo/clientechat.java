@@ -1,7 +1,7 @@
 package serverprotocolo;
 import java.net.*;
 import java.io.*;
-import java.text.Normalizer;
+
 
 public class clientechat {
     private static final String SERVER_IP = "127.0.0.1"; 
